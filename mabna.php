@@ -1,6 +1,6 @@
 <?php 
 
-$mabna = 53;
+$mabna = 13;
 $i = 0;
 
 while (pow(2,$i) <= $mabna){
